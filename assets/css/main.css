@@ -637,6 +637,9 @@ input, select, textarea {
 
 /* Image */
 
+		#about .image:before{
+			background-color: transparent;
+		}
 	.image {
 		border-radius: 4px;
 		border: 0;
